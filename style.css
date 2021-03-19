@@ -40,9 +40,12 @@ strong{
 }
 .photo{
   display: inline-block;
-  width: 30%;  
+  width: 20%;  
 }
 .description{
   display: inline-block;  
   position: absolute;
+}
+.name{
+  text-align: center;
 }
