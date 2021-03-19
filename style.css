@@ -1,38 +1,48 @@
 body{
-    background-color:rgb(245, 252, 229) ;
+  background-color:rgb(245, 252, 229) ;
 }
 
 #nome{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+#foto{
+  width: 300px;
+}
 .desc{
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
 strong{
-    font-style: italic;
+  font-style: italic;
 }
 .hab1{
-    font-size: 22px;
+  font-size: 22px;
 }
 .hab2{
-    font-size: 21px;
+  font-size: 21px;
 }
 .hab3{
-    font-size: 20px;
+  font-size: 20px;
 }
 .hab4{
-    font-size: 19px;
+  font-size: 19px;
 }
 .hab5{
-    font-size: 18px;
+  font-size: 18px;
 }
 .hab6{
-    font-size: 17px;
+  font-size: 17px;
 }
 .hab7{
-    font-size: 16px;
+  font-size: 16px;
 }
 .hab8{
-    font-size: 15px;
+  font-size: 15px;
+}
+.photo{
+  display: inline-block;
+  width: 30%;  
+}
+.description{
+  display: inline-block;  
+  position: absolute;
 }
