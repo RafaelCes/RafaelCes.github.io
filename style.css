@@ -40,7 +40,10 @@ strong{
 }
 .photo{
   display: inline-block;
-  width: 20%;  
+  width: auto;  
+  padding: 25px;
+  background-color: darkgrey;
+  margin: 10px;
 }
 .description{
   display: inline-block;  
